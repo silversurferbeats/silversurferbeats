@@ -1,6 +1,6 @@
 # Gabriel Suarez
 
-_Desarrollador Front-end_
+_Desarrollador FullStack_
 
 ## Proyectos 🚀
 
@@ -16,6 +16,8 @@ _HTML , CSS , Javascript , Node.js , React.js_
 
 Javascript do Zero. (Academy Cubo). 
 JavaScrip Avanzado: (buenas practicas). LinkedIn.
+Frontend : Alkemy.
+Fullstack: SoyHenry.
 
 
 
